@@ -1,7 +1,7 @@
 <?php
-$hostname="remotemysql.com";
-$database="k7jTW1fAmX";
-$username="k7jTW1fAmX";
+$hostname="localhost";
+$database="coseuuhl_k7jTW1fAmX";
+$username="coseuuhl_k7jTW1fAmX";
 $password="nZwp5aoAz8";
 $con = mysqli_connect($serverName,$username,$password,$db); 
 require_once 'controlador/excel.php';
