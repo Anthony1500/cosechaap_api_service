@@ -5,8 +5,7 @@ $response = array(
 );      
 require_once "conexion.php";
 
-$database = new Database();
-$db = $database->getConnection();
+
 
 	if(isset($_GET["privilegio"]) && isset($_GET["id_usuario"])){
 		$privilegio=$_GET['privilegio'];
