@@ -1,5 +1,0 @@
-{
-    "versionCode":3,
-    "versionName":"1.2.44",
-    "downloadURL":"https://cosecha.tech/cosechaap_api_service/versions/app-release.apk"
-}

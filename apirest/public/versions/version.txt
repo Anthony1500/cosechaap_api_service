@@ -1,0 +1,5 @@
+{
+    "versionCode":4,
+    "versionName":"1.3.00",
+    "downloadURL":"https://cosechapp.cosecha.tech/apk"
+}
